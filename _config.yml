@@ -58,8 +58,7 @@ plugins:
 
 author:
   name   : "Kelvin Njoroge"
-  avatar : "/assets/images/passphoto.jpg"
-  avatar_alt : "Kelvin Njoroge professional headshot"
+  avatar : "/assets/images/pass photo.jpg"
   bio    : "Graduate student in Information Technology"
   links:
     - label: "LinkedIn"
