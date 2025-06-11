@@ -95,4 +95,3 @@ Gatumaini Primary School, Thika
 Travelling | Reading Novels | Socializing
 
 ---
-
