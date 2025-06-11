@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /resume/
+title: "Resume"
 ---
 KELVIN JOB KUNGU NJOROGE  
 258, Kiambu, Thika, Kenya  
