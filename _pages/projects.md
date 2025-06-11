@@ -30,3 +30,12 @@ author_profile: true
 - Network penetration testing
 - Cryptanalysis
 - Forensic analysis
+### 4. Hack The Box Modules
+**Technologies:** Various security tools and techniques  
+**Description:** Completed Hack The Box modules demonstrating practical security skills  
+**Key Features:**
+- Active Directory exploitation
+- Privilege escalation techniques
+- Web application vulnerabilities
+- Network enumeration and scanning
+- Buffer overflow exploitation
