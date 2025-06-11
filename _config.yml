@@ -28,8 +28,8 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-#paginate: 5 # amount of posts to show
-#paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: Africa/Nairobi
 
 include:
@@ -58,7 +58,8 @@ plugins:
 
 author:
   name   : "Kelvin Njoroge"
-  avatar : "/assets/images/pass photo.jpg"
+  avatar : "/assets/images/passphoto.jpg"
+  avatar_alt : "Kelvin Njoroge professional headshot"
   bio    : "Graduate student in Information Technology"
   links:
     - label: "LinkedIn"
@@ -79,7 +80,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kelvinnjoroke"
-      defaults:
+
+defaults:
   # _posts
   - scope:
       path: ""
@@ -105,3 +107,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
