@@ -8,9 +8,7 @@ header:
       url: "/resume/"
     - label: "See Projects"
       url: "/projects/"
----
-
-## PORTFOLIO  
+---  
 ### Information Technology Professional
 
 Dynamic IT graduate with expertise in networking, hardware, and Python programming. Passionate about solving complex technical challenges and creating innovative solutions. Seeking opportunities to apply my skills in a professional environment while continuing to grow and learn.
