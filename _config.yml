@@ -13,23 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: kelvin Njoroge portfolio
-email:kelvinkungu69@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-title: kelvin Njoroge portfolio
-email:kelvinkungu69@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: neon
+
+title: Kelvin Njoroge Portfolio
+email: kelvinkungu69@gmail.com
+description: >-
+  Graduate student in Information Technology showcasing projects and skills.
+twitter_username: Bossmankev13858
+github_username: kelvinnjoroke
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -39,7 +30,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Africa/Nairobi
 
 include:
   - _pages
@@ -67,33 +58,28 @@ plugins:
 
 author:
   name   : "Kelvin Njoroge"
-  avatar : "/assets/images/pass photo.jpg"
+  avatar : "/assets/images/passphoto.jpg"
+  avatar_alt : "Kelvin Njoroge professional headshot"
   bio    : "Graduate student in Information Technology"
   links:
-   - label: "LinkedIn"
-      icon: "fab fa-linkedIn"
-      url: "www.linkedin.com/in/kelvin-njoroge-b5a552267"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/kelvin-njoroge-b5a552267"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/Bossmankev13858"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    #- label: "Instagram"
-    # icon: "fab fa-fw fa-instagram"
-     # url: "https://x.com/Bossmankev13858?s=03"
+      url: "https://github.com/kelvinnjoroke"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/Bossmankev13858?s=03"
+      url: "https://twitter.com/Bossmankev13858"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kelvinnjoroke"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-     # url: "https://instagram.com/"
 
 defaults:
   # _posts
