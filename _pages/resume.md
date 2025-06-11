@@ -96,12 +96,3 @@ Travelling | Reading Novels | Socializing
 
 ---
 
-## REFEREES
-
-1. Maurice Sifuna  
-   SCDE Thika West  
-   0723679645
-
-2. Arthur Magwi  
-   System Admin, MKU  
-   0725086163
