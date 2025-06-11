@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+show_posts: false
 header:
   overlay_filter: 0.5
   actions:
