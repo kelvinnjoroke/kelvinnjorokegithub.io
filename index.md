@@ -1,14 +1,14 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
 ---
-## Education 
--**Bachelor of science in Information Technology**, Kirinyaga University*
--**Kenya Certificate Of Secondary Education**,Karibaribi Secondary school*
--**Kenya Certificate of Primary Education**, #Gatumaini primary school*
 
-# Certifications
--**Cisco Certified Network Associate**,Institute Of Advanced Technology*
+## Education
+
+- **Bachelor of Science in Information Technology**, Kirinyaga University
+- **Kenya Certificate of Secondary Education**, Karibaribi Secondary School
+- **Kenya Certificate of Primary Education**, Gatumaini Primary School
+
+## Certifications
+
+- **Cisco Certified Network Associate**, Institute of Advanced Technology
