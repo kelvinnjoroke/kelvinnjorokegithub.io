@@ -79,19 +79,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kelvinnjoroke"
-
-#defaults:
-  # _posts
- # - scope:
-   #   path: ""
-   #   type: posts
-   # values:
-   #   layout: single
-    #  author_profile: true
-    #  read_time: true
-    #  comments: true
-    #  share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
