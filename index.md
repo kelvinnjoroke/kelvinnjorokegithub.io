@@ -1,7 +1,20 @@
 ---
-layout: single
+layout: home
 author_profile: true
+header:
+  overlay_image: /assets/images/pass photo.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "View Resume"
+      url: "/resume/"
+    - label: "See Projects"
+      url: "/projects/"
 ---
+
+# Kelvin Job Kungu Njoroge  
+### Information Technology Professional
+
+Dynamic IT graduate with expertise in networking, hardware, and Python programming. Passionate about solving complex technical challenges and creating innovative solutions. Seeking opportunities to apply my skills in a professional environment while continuing to grow and learn.
 
 ## Education
 
